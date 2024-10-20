@@ -20,7 +20,9 @@ Before you begin, ensure you have the following installed:
 ## Step 1: Setting Up the Project
 To set up the e-commerce application, git clone the source code using the code below.
 
-git clone 
+```
+git clone https://github.com/TheGreatBonnie/FGAJavaSpringBoot.git
+```
 
 ## Step 2: Get your Permit Environment API Key
 Login to your Permit.io account and create a new project in your workspace and copy your API key. Set the PERMIT_API_KEY environment variable to your API key:

@@ -1,0 +1,25 @@
+# This file is maintained automatically by "terraform init".
+# Manual edits may be lost in future updates.
+
+provider "registry.terraform.io/permitio/permit-io" {
+  version     = "0.0.12"
+  constraints = "~> 0.0.1"
+  hashes = [
+    "h1:LLtuRDb54tpKWRdgF2Gxr0VP+uVors5yA5LUOcrg1f4=",
+    "zh:1265c98b4242eb7f6213fae72354d9412484b46c587b55259a18ea17c82b37ff",
+    "zh:1b389dd73710223c54af417d987007d9e9e19676287cf993a715ec4463c32a96",
+    "zh:1c5db3e6c33b34b4559baeae7257e9c4912aea20ffcf093d3e474d73a2e0fc99",
+    "zh:24baa1799c02b78a3846aee46eedc03e419a11f353502b8d64143d0fad33e136",
+    "zh:367985cf662246d97cf6321a91954b6e1ac8ec2256b710be507cd061b712eee4",
+    "zh:4b5223694b2f4d619584fe120b910542aa6f4a651d3887217adcfabf8dbaed1e",
+    "zh:511f7a8af6435773bf087ea5f80c815801006951916bf27ddc07349530f3449d",
+    "zh:5fd9250cbb85de727ab0b957e176519999e73d9e7e2c86511411ecc6098cf24d",
+    "zh:890df766e9b839623b1f0437355032a3c006226a6c200cd911e15ee1a9014e9f",
+    "zh:a2853b53eafc343ec2eeb033b70e219d3cade9310ab1a49115cb2adec7301362",
+    "zh:a63d94825d9be659741871336c91d9b515a27dcce4c06f2d2ed45b00456176d6",
+    "zh:af49f6880e37d5973b52d31e7b91b35476702f20bc19afd4c52a18e320af5fe3",
+    "zh:c84126614f6aba06ac886ea28a48ab76a2ff7852099773e571872d708c2bf5f1",
+    "zh:ef1c99cdc65a78c5d526608af7bffc1d46b1ec5ec0f253359ff126ecc32877cf",
+    "zh:fc7be7e9e88ad24f10c694223aa72c39f6de4417a71f6f89e704165acb38b07c",
+  ]
+}
